@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: ba9c83ddddf09df48aac525ca31e808f
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - WinnerText: {instanceID: 0}
+  - paperImage: {fileID: 21300000, guid: 5c3ad0ac79ce5454397d13f017c5400a, type: 3}
+  - rockImage: {fileID: 21300000, guid: 47991d5142143a64eb5b079e5a933e3a, type: 3}
+  - scissorImage: {fileID: 21300000, guid: a8e00e78593d9474ea9aea4998e60804, type: 3}
+  - botChooseImage: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
